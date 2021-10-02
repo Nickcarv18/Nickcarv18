@@ -4,7 +4,9 @@
 
 👨‍🎓 Estudando: Análise e Desenvolvimento de sistema;
 
-🌱 Aprendendo: Laravel, C#;
+💻 Trabalhando: TANTTO Ltda.
+
+🌱 Aprendendo: Angular, Docker;
 
 🎒 Ferrametas: Visual Studio Code e GitHub;
 
