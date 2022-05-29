@@ -4,9 +4,9 @@
 
 👨‍🎓 Estudando: Análise e Desenvolvimento de sistema;
 
-👩‍💻 Trabalhando: TANTTO Ltda.
+👩‍💻 Trabalhando: Construmarket.
 
-🌱 Aprendendo: Angular, Docker;
+🌱 Aprendendo: Angular, Java;
 
 🎒 Ferrametas: Visual Studio Code e GitHub;
 
