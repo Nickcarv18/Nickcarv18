@@ -6,7 +6,7 @@
 
 👩‍💻 Trabalhando: Construmarket.
 
-🌱 Aprendendo: Angular, Java;
+🌱 Aprendendo: Angular, nodeJS;
 
 🎒 Ferrametas: Visual Studio Code e GitHub;
 
