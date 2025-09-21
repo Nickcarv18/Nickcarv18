@@ -1,40 +1,33 @@
-### Olá! Eu sou Nicoli Carvalho
+# Olá! Eu sou Nicoli Carvalho (@Nickcarv18) 👋
 
-##
+Sou uma **Desenvolvedora Fullstack** com uma paixão por transformar ideias em soluções robustas e eficientes. Com uma base sólida em Angular, React e .NET, tenho experiência em otimizar componentes e refatorar códigos, sempre buscando melhorar a performance e a manutenibilidade das aplicações.
 
-👨‍🎓 Estudando: Pós Arquitetura de Software;
+## 🏢 Atuação Profissional
 
-🌱 Aprendendo: React, .Net;
+* **Construmarket (Março de 2022 - Atualmente):** Desenvolvedora Front-end 
+* **TANTTO_BR (Junho de 2021 - Março de 2022):** Estagiária de Desenvolvimento Web
 
-🎒 Ferrametas: Visual Studio Code, Visual Studio e GitHub;
+## 📱 Especialidades
 
-##
+* **Front-end:** Angular, React.js, TypeScript, HTML, CSS, RxJS
+* **Back-end:** .NET Framework, C#
+* **Ferramentas:** Git, GitHub, Metodologias Ágeis
 
-<h3>📂 Mais Informações: </h3>
+## 🚀 O que me motiva
 
- <div>
-  <a href="https://github.com/Nickcarv18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickcarv18&layout=compact&langs_count=16&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nickcarv18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-  
-  ##
-<h3>🚀 Skills:</h3>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nick-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" alt="Nick-laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img align="center" alt="Nick-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Nick-java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Nick-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Nick-javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</div>
-  
-  ##
-  
- <h3>📲 Contatos:</h3>
-<div> 
-  <a href = "mailto:nicolicarvalho1@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicoli-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
+Sou movida pela busca constante por conhecimento e pelo desafio de encontrar soluções criativas para problemas complexos. Tenho paixão por aprender novas tecnologias e aplicá-las em projetos que geram impacto positivo. Acredito que a colaboração e a comunicação eficaz são fundamentais para o sucesso de qualquer projeto.
+
+## 📌 Projetos em Destaque
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nickcarv18&repo=github-copilot-validador-bandeira-cartoes&theme=tokyonight&locale=pt-br)](https://github.com/Nickcarv18/github-copilot-validador-bandeira-cartoes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nickcarv18&repo=login-form&theme=tokyonight&locale=pt-br)](https://github.com/Nickcarv18/login-form)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nickcarv18&repo=trilha-net-api-desafio&theme=tokyonight&locale=pt-br)](https://github.com/Nickcarv18/trilha-net-api-desafio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nickcarv18&repo=projeto-sds3&theme=tokyonight&locale=pt-br)](https://github.com/Nickcarv18/projeto-sds3)
+
+## 📊 GitHub Stats
+
+![Nicoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickcarv18&show_icons=true&tshow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)
+
+## 🧠 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickcarv18&layout=compact&theme=tokyonight&locale=pt-br)
