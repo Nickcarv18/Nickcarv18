@@ -1,33 +1,67 @@
-# Olá! Eu sou Nicoli Carvalho (@Nickcarv18) 👋
+# Nicoli Carvalho
 
-Sou uma **Desenvolvedora Fullstack** com uma paixão por transformar ideias em soluções robustas e eficientes. Com uma base sólida em Angular, React e .NET, tenho experiência em otimizar componentes e refatorar códigos, sempre buscando melhorar a performance e a manutenibilidade das aplicações.
+### Fullstack Software Engineer · Front-end Specialist
 
-## 🏢 Atuação Profissional
+Construo aplicações web com foco em interfaces bem estruturadas, qualidade de código e soluções sustentáveis. Minha especialidade é Front-end, com experiência em Angular, React e TypeScript, e atuação fullstack com Java, .NET e C#.
 
-* **Construmarket (Março de 2022 - Atualmente):** Desenvolvedora Front-end 
-* **TANTTO_BR (Junho de 2021 - Março de 2022):** Estagiária de Desenvolvimento Web
+[Portfolio](https://nicoli-carvalho.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nicoli-carvalho) · [GitHub](https://github.com/Nickcarv18)
 
-## 📱 Especialidades
+---
 
-* **Front-end:** Angular, React.js, TypeScript, HTML, CSS, RxJS
-* **Back-end:** .NET Framework, C#
-* **Ferramentas:** Git, GitHub, Metodologias Ágeis
+## About me
 
-## 🚀 O que me motiva
+Sou engenheira de software com experiência na construção e evolução de aplicações web, desde interfaces complexas até APIs e regras de negócio.
 
-Sou movida pela busca constante por conhecimento e pelo desafio de encontrar soluções criativas para problemas complexos. Tenho paixão por aprender novas tecnologias e aplicá-las em projetos que geram impacto positivo. Acredito que a colaboração e a comunicação eficaz são fundamentais para o sucesso de qualquer projeto.
+Minha trajetória começou no Front-end, trabalhando principalmente com Angular, TypeScript e RxJS. Ao longo da carreira, atuei na modernização de sistemas legados, refatoração de aplicações, melhoria de performance e construção de componentes reutilizáveis.
 
-## 📌 Projetos em Destaque
+Atualmente, trabalho com Java e React, desenvolvendo soluções ponta a ponta que envolvem APIs, regras de negócio e persistência de dados. Também tenho experiência anterior com .NET e C#.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nickcarv18&repo=github-copilot-validador-bandeira-cartoes&theme=tokyonight&locale=pt-br)](https://github.com/Nickcarv18/github-copilot-validador-bandeira-cartoes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nickcarv18&repo=login-form&theme=tokyonight&locale=pt-br)](https://github.com/Nickcarv18/login-form)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nickcarv18&repo=trilha-net-api-desafio&theme=tokyonight&locale=pt-br)](https://github.com/Nickcarv18/trilha-net-api-desafio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nickcarv18&repo=projeto-sds3&theme=tokyonight&locale=pt-br)](https://github.com/Nickcarv18/projeto-sds3)
+Gosto de compreender o problema antes de implementar a solução, participar de decisões técnicas e construir software que seja simples de evoluir e manter.
 
-## 📊 GitHub Stats
+## Technologies
 
-![Nicoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickcarv18&show_icons=true&tshow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)
+### Front-end
 
-## 🧠 Linguagens Mais Usadas
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickcarv18&layout=compact&theme=tokyonight&locale=pt-br)
+### Back-end
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### Engineering practices
+
+- Software architecture and component design
+- Legacy code refactoring
+- Clean Code and maintainability
+- Test-Driven Development (TDD)
+- Behavior-Driven Development (BDD)
+- Acceptance Test-Driven Development (ATDD)
+- Code Review and technical collaboration
+
+## Featured work
+
+Explore my repositories to see projects involving application development, software engineering practices, and different technology stacks.
+
+- [Portfolio](https://nicoli-carvalho.vercel.app) — professional experience, selected projects and technical background.
+- [GitHub repositories](https://github.com/Nickcarv18?tab=repositories) — code, experiments and projects.
+
+## Currently interested in
+
+- Software architecture and maintainable applications
+- Front-end engineering and complex interfaces
+- Fullstack development with Java and React
+- AI applied to software engineering
+
+---
+
+<p align="center">
+  <i>Good software is not only about making things work. It is about making them work well, and making them easier to evolve.</i>
+</p>
